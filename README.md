@@ -418,11 +418,9 @@ One of the main lessons from the project was that **model complexity should be e
 
 # 11. Research Manuscript
 
-The complete research manuscript is included in the repository under:
+The Partial research manuscript is included in the repository under:
 
-```text
-research_manuscript/
-```
+[Flood-Risk-Analysis](research_manuscript/)
 
 ### Citation
 
